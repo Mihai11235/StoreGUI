@@ -1,0 +1,20 @@
+122756355243,Nike Everyday Plus Cushioned,Socks,Nike,132.87
+277463547493,Adidas UltraBoost 22,Running Shoes,Adidas,949.99
+277412437493,Nike Multiplier,Socks,Adidas,150
+918826476352,NYC Red Apple edition NMD,Socks,Adidas,8165
+199472837374,Nike HyperAdapt 1.0,Running Shoes,Nike,10000
+235236565366,ATHLETIC CUSHIONED CREW,Socks,Adidas,150
+256436256265,Nike Air Jordan,Sneakers,Nike,499.99
+345275246565,Pitch Black Friends & Family,Sneakers,Adidas,9000.76
+462626863775,Nike Pegasus 40,Running Shoes,Nike,780
+254625624625,Nike Spark Lightweight,Socks,Nike,200
+234636346266,Nike Air Max 95 x Future Movement,Sneakers,Nike,1059.99
+786564326755,Nike Air Max 95 Ultra,Sneakers,Nike,950
+547275547427,Adidas Adizero Adios 7,Running Shoes,Adidas,500
+367676376773,Nike Dri-FIT,Socks,Nike,100
+245747245775,Nike InfinityRN 4,Running Shoes,Nike,1000.80
+562457452547,3-STRIPES STONEWASH CREW,Socks,Adidas,170
+256256263464,Nike Air Max Plus Utility,Sneakers,Nike,699.99
+436262346234,Adidas Alphaboost V1,Running Shoes,Adidas,699.99
+236346234234,Nike Air Force 1,Sneakers,Nike,499.99
+234623636336,Nike Dunk Hi Retro,Sneakers,Nike,999.99
